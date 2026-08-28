@@ -9,11 +9,19 @@ My background bridges IT Infra, Cyber-Security, Dev, Cloud and Data/AI
 
 <table>
   <tr>
-    <td align="center"><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="shell" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://archlinux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a></td>
+    <td align="center"><a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/python.svg" alt="python" width="40" height="40"/></a></td>
+    <td align="center"><a href="https://www.gnu.org/software/bash" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/shell.svg" alt="shell" width="40" height="40"/></a></td>
+    <td align="center"><a href="https://nixos.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/nixos.svg" alt="nixos" width="40" height="40"/></a></td>
+    <td align="center"><a href="https://git-scm.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/git.svg" alt="git" width="40" height="40"/></a></td>
+    <td align="center"><a href="https://aws.amazon.com" target="_blank"><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/aws-color.svg" alt="aws" width="40" height="40"/></a></td>
+    <td align="center"><a href="https://azure.microsoft.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-azure.svg" alt="azure" width="40" height="40"/></a></td>
+    <td align="center"><a href="https://pfsense.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/pfsense.svg" alt="pfsense" width="40" height="40"/></a></td>
+    <td align="center"><a href="https://proxmox.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/proxmox.svg" alt="proxmox" width="40" height="40"/></a></td>
+    <td align="center"><a href="https://prometheus.io" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/prometheus.svg" alt="prometheus" width="40" height="40"/></a></td>
+    <td align="center"><a href="https://dataiku.com" target="_blank"><img src="https://cdn.simpleicons.org/dataiku/2AB1AC" alt="dataiku" width="40" height="40"/></a></td>
+    <td align="center"><a href="https://docker.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/docker.svg" alt="docker" width="40" height="40"/></a></td>
+    <td align="center"><a href="https://prusa3d.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/prusa-research.svg" alt="prusa" width="40" height="40"/></a></td>
+    <td align="center"><a href="https://claude.com/fr/product/claude-code" target="_blank"><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/claudecode-color.svg" alt="claudecode" width="40" height="40"/></a></td>
   </tr>
 </table>
 
