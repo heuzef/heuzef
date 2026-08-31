@@ -23,10 +23,12 @@ Engineer with **10+ years** of experience in critical infrastructure management 
 My background bridges **IT Infra, Cyber-Security, Dev, Cloud and Data/AI** : I solve issues, optimise
 performance and design sustainable solutions, acting as the bridge between experts and stakeholders.
 
-- 🏢 &nbsp;**Data Consultant & SI Manager** at [BiiR](https://biir.fr) — full IT management and high value data projects
-- 🎓 &nbsp;**Machine Learning Engineer** — DataScientest / Mines Paris, RNCP Level 7
+- 🏢 &nbsp;Data Consultant
+- 🤖 &nbsp;Machine Learning Engineer
+- 🖥️ &nbsp;SI Manager
+- 🔧 &nbsp;Fab Manager
 - 🛠️ &nbsp;System administration, networking, hypervision, supervision and *Everything as Code*
-- 🥋 &nbsp;Off keyboard : Aïkido, open-source and 3D printing
+- 🥋 &nbsp;Off keyboard : Aïkido, Open-Source and 3D printing
 
 ---
 
