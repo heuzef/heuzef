@@ -36,17 +36,10 @@ performance and design sustainable solutions, acting as the bridge between exper
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heuzef&name=Heuze%20Florent%20(Heuzef)&theme=transparent&animation=sequence" alt="heuzef" />
 </p>
 
-<details>
-<summary><b>📈 &nbsp;More stats</b></summary>
-
-<br/>
-
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=heuzef&theme=transparent&animation=sequence" alt="heuzef" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=heuzef&theme=transparent&animation=sequence" alt="heuzef" />
 </p>
-
-</details>
 
 ---
 
@@ -54,18 +47,17 @@ performance and design sustainable solutions, acting as the bridge between exper
 
 <table>
   <tr>
+    <td align="center"><a href="https://git-scm.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/git.svg" alt="git" width="40" height="40"/></a></td>
     <td align="center"><a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/python.svg" alt="python" width="40" height="40"/></a></td>
     <td align="center"><a href="https://en.wikipedia.org/wiki/SQL" target="_blank"><img src="https://api.iconify.design/carbon/sql.svg?color=%234479A1" alt="sql" width="40" height="40"/></a></td>
     <td align="center"><a href="https://nixos.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/nixos.svg" alt="nixos" width="40" height="40"/></a></td>
     <td align="center"><a href="https://docker.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/docker.svg" alt="docker" width="40" height="40"/></a></td>
     <td align="center"><a href="https://kubernetes.io" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/kubernetes.svg" alt="kubernetes" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://www.ansible.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ansible.svg" alt="ansible" width="40" height="40"/></a></td>
     <td align="center"><a href="https://proxmox.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/proxmox.svg" alt="proxmox" width="40" height="40"/></a></td>
     <td align="center"><a href="https://aws.amazon.com" target="_blank"><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/aws-color.svg" alt="aws" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://airflow.apache.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/apache-airflow.svg" alt="airflow" width="40" height="40"/></a></td>
+    <td align="center"><a href="https://azure.microsoft.com" target="_blank"><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/azure-color.svg" alt="azure" width="40" height="40"/></a></td>
     <td align="center"><a href="https://mlflow.org" target="_blank"><img src="https://cdn.simpleicons.org/mlflow/0194E2" alt="mlflow" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://scikit-learn.org" target="_blank"><img src="https://cdn.simpleicons.org/scikitlearn/F7931E" alt="scikit-learn" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://git-scm.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/git.svg" alt="git" width="40" height="40"/></a></td>
+    <td align="center"><a href="https://dataiku.com" target="_blank"><img src="https://cdn.simpleicons.org/dataiku/2AB1AC" alt="dataiku" width="40" height="40"/></a></td>
   </tr>
 </table>
 
@@ -100,7 +92,7 @@ performance and design sustainable solutions, acting as the bridge between exper
     <td align="center"><a href="https://streamlit.io" target="_blank"><img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="40" height="40"/></a></td>
     <td align="center"><a href="https://www.crummy.com/software/BeautifulSoup" target="_blank"><img src="https://api.iconify.design/tabler/soup.svg?color=%23336633" alt="beautifulsoup" width="40" height="40"/></a></td>
     <td align="center"><a href="https://wordpress.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/wordpress.svg" alt="wordpress" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://jekyllrb.com" target="_blank"><img src="https://cdn.simpleicons.org/jekyll/CC0000" alt="jekyll" width="40" height="40"/></a></td>
+    <td align="center"><a href="https://www.jenkins.io" target="_blank"><img src="https://api.iconify.design/thesvg-color/jenkins.svg" alt="jenkins" width="40" height="40"/></a></td>
     <td align="center"><a href="https://getpelican.com" target="_blank"><img src="https://api.iconify.design/thesvg-color/pelican.svg" alt="pelican" width="40" height="40"/></a></td>
   </tr>
   <tr>
