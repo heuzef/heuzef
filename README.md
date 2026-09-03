@@ -27,8 +27,8 @@ performance and design sustainable solutions, acting as the bridge between exper
 - 🤖 &nbsp;Machine Learning Engineer
 - 🖥️ &nbsp;SI Manager
 - 🔧 &nbsp;Fab Manager
-- 🛠️ &nbsp;System administration, networking, hypervision, supervision and *Everything as Code*
-- 🥋 &nbsp;Off keyboard : Aïkido, Open-Source and 3D printing
+- 🛠️ &nbsp;System administration, networking, hypervision, supervision and Everything as Code
+- 🥋 &nbsp;Off keyboard : Aïkido and DIY Stuff
 
 ---
 
