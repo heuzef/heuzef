@@ -60,6 +60,7 @@ performance and design sustainable solutions, acting as the bridge between exper
     <td align="center"><a href="https://azure.microsoft.com" target="_blank"><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/azure-color.svg" alt="azure" width="40" height="40"/></a></td>
     <td align="center"><a href="https://mlflow.org" target="_blank"><img src="https://cdn.simpleicons.org/mlflow/0194E2" alt="mlflow" width="40" height="40"/></a></td>
     <td align="center"><a href="https://dataiku.com" target="_blank"><img src="https://cdn.simpleicons.org/dataiku/2AB1AC" alt="dataiku" width="40" height="40"/></a></td>
+    <td align="center"><a href="https://n8n.io" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/n8n.svg" alt="n8n" width="40" height="40"/></a></td>
   </tr>
 </table>
 
@@ -137,6 +138,7 @@ performance and design sustainable solutions, acting as the bridge between exper
     <td align="center"><a href="https://www.evidentlyai.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/evidentlyai/evidently/ui/service/public/favicon-32x32.png" alt="evidently" width="40" height="40"/></a></td>
     <td align="center"><a href="https://claude.com/fr/product/claude-code" target="_blank"><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/claudecode-color.svg" alt="claudecode" width="40" height="40"/></a></td>
     <td align="center"><a href="https://elevenlabs.io" target="_blank"><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/elevenlabs.svg" alt="elevenlabs" width="40" height="40"/></a></td>
+    <td align="center"><a href="https://n8n.io" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/n8n.svg" alt="n8n" width="40" height="40"/></a></td>
   </tr>
 </table>
 
