@@ -142,7 +142,7 @@ performance and design sustainable solutions, acting as the bridge between exper
   </tr>
 </table>
 
-#### ☁️ Infra, Cloud & Observability
+#### ☁️ Infra, Cloud and Observability
 
 <table>
   <tr>
@@ -163,7 +163,7 @@ performance and design sustainable solutions, acting as the bridge between exper
   </tr>
 </table>
 
-#### 🤝 Collaboration & Self-hosted
+#### 🤝 Collaboration and Self-hosted
 
 <table>
   <tr>
@@ -178,7 +178,7 @@ performance and design sustainable solutions, acting as the bridge between exper
   </tr>
 </table>
 
-#### 🎨 PAO & 3D
+#### 🎨 PAO, MAO and CFAO
 
 <table>
   <tr>
@@ -188,6 +188,7 @@ performance and design sustainable solutions, acting as the bridge between exper
     <td align="center"><a href="https://www.autodesk.com/products/fusion-360" target="_blank"><img src="https://api.iconify.design/thesvg-color/fusion-360.svg" alt="fusion360" width="40" height="40"/></a></td>
     <td align="center"><a href="https://prusa3d.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/prusa-research.svg" alt="prusa" width="40" height="40"/></a></td>
     <td align="center"><a href="https://octoprint.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/octoprint.svg" alt="octoprint" width="40" height="40"/></a></td>
+    <td align="center"><a href="https://audacityteam.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/audacity.svg" alt="audacity" width="40" height="40"/></a></td>
   </tr>
 </table>
 
