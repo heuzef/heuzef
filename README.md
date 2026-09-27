@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://heuzef.com"><img src="https://img.shields.io/badge/Website-heuzef.com-4B32C3?style=for-the-badge&logo=rss&logoColor=white" alt="Website" /></a>
   <a href="https://xp.heuzef.com"><img src="https://img.shields.io/badge/Portfolio-xp.heuzef.com-FF4B4B?style=for-the-badge&logo=rss&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://cv.heuzef.com"><img src="https://img.shields.io/badge/Resume-PDF-EC1C24?style=for-the-badge" alt="Resume" /></a>
+  <a href="https://raw.githubusercontent.com/heuzef/cv/main/en/heuzef_cv.pdf"><img src="https://img.shields.io/badge/Resume-PDF-EC1C24?style=for-the-badge" alt="Resume" /></a>
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/heuzef"><img src="https://img.shields.io/badge/LinkedIn-heuzef-0A66C2?style=for-the-badge&logo=rss&logoColor=white" alt="LinkedIn" /></a>
@@ -83,7 +83,7 @@ performance and design sustainable solutions, acting as the bridge between exper
   </tr>
 </table>
 
-#### 🌐 Dev & Web
+#### 🌐 Dev and Web
 
 <table>
   <tr>
@@ -103,7 +103,7 @@ performance and design sustainable solutions, acting as the bridge between exper
   </tr>
 </table>
 
-#### 🗄️ Data & BI
+#### 🗄️ Data and BI
 
 <table>
   <tr>
@@ -125,7 +125,7 @@ performance and design sustainable solutions, acting as the bridge between exper
   </tr>
 </table>
 
-#### 🤖 AI & MLOps
+#### 🤖 AI and MLOps
 
 <table>
   <tr>
